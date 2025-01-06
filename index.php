@@ -10,13 +10,13 @@
   <link href="./bootstrap/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="./bootstrap/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
   <!-- Main CSS File -->
-  <link href="./css/main.css" rel="stylesheet">
+  <link href="./css/style.css" rel="stylesheet">
 </head>
 
 <body class="index-page">
   <!-- NAVBAR -->
   <header id="header" class="header sticky-top">
-    <div class="branding d-flex align-items-cente">
+    <div class="branding d-flex align-items-center">
       <?php include_once 'navbar.php'; ?>
     </div>
   </header>
